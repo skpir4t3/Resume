@@ -1,0 +1,29 @@
+[
+  {
+      "grouping":"Languages",
+      "skills":[ "Java","Python","C"]
+  },
+  {
+      "grouping":"Operating System and Tools",
+      "skills":[ "Linux", "Windows", "Bash"]
+  },
+  {
+      "grouping":"Web Technology",
+      "skills":[ "HTML","Bootstrap","PHP","JavaScript","CSS","ReactJS"]
+  },
+  {
+      "grouping":"DataBase",
+      "skills":[
+        {"name":"Oracle","icon":"database"},
+        {"name":"MySQL"}
+      ]
+  },
+  {
+    "grouping":"Test Automation Tools",
+      "skills":[ "Selenium","Cucumber"]
+  },
+  {
+    "grouping":"Framework",
+      "skills":[ "Spring"]
+  }
+]
