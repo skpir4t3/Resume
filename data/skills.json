@@ -1,29 +1,39 @@
 [
   {
       "grouping":"Languages",
-      "skills":[ "Java","Python","C"]
+      "skills":[ {"name": "Java", "icon":"java-plain"},
+                {"name": "Python", "icon":"python-plain"},
+                {"name": "C", "icon": "c-plain"}]
   },
   {
       "grouping":"Operating System and Tools",
-      "skills":[ "Linux", "Windows", "Bash"]
+      "skills":[ {"name": "Linux", "icon": "linux-plain"}, 
+                {"name": "Windows", "icon": "windows8-original"},
+                {"name": "Bash", "common": "terminal_badge"}]
   },
   {
       "grouping":"Web Technology",
-      "skills":[ "HTML","Bootstrap","PHP","JavaScript","CSS","ReactJS"]
+      "skills":[ {"name": "HTML", "icon": "html5-plain"},
+                {"name": "Bootstrap", "icon": "bootstrap-plain"},
+                {"name": "JavaScript", "icon": "javascript-plain"},
+                {"name": "CSS", "icon": "css3-plain"},
+                {"name": "ReactJS", "icon": "react-original"},
+                {"name": "PHP", "icon": "php-plain"}]
   },
   {
       "grouping":"DataBase",
       "skills":[
-        {"name":"Oracle","icon":"database"},
-        {"name":"MySQL"}
+        {"name":"Oracle","common": "database"},
+        {"name": "SQL", "icon": "mysql-plain"}
       ]
   },
   {
     "grouping":"Test Automation Tools",
-      "skills":[ "Selenium","Cucumber"]
+      "skills":[ {"name": "Selenium", "common": "terminal_badge"},
+                {"name": "Cucumber", "icon": "cucumber-plain"}]
   },
   {
     "grouping":"Framework",
-      "skills":[ "Spring"]
+      "skills":[{"name": "Spring", "common": "terminal_badge"}]
   }
 ]

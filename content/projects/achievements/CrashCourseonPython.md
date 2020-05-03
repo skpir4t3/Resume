@@ -1,7 +1,7 @@
 ---
 title: "Coursera - Crash Course on Python"
 date: 2020-01-07T17:08:21.433Z
-link: "https://www.coursera.org/account/accomplishments/certificate/QQ45223ZZDFP"
+cert_link: "https://www.coursera.org/account/accomplishments/certificate/QQ45223ZZDFP"
 image: "/img/coursera.png"
 description: "This Course is designed in order to write simple programming in Python using most common structures. This course is instructed by <em>Google</em>."
 featured: true
@@ -22,6 +22,4 @@ In this course I have learnt about _Basic Python Syntax, Loops, and Data Structu
   
 **Issuing Organization:** Coursera  
 **Issue Date:** April 2020  
-**Expiration Date:** _This certification does not expire_  
-
-**[View Certificate](https://www.coursera.org/account/accomplishments/certificate/QQ45223ZZDFP)**
+**Expiration Date:** _This certification does not expire_

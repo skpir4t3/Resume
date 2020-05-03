@@ -4,7 +4,7 @@
   "image": "/img/circleci-workflow.webp",
   "link": "https://www.hsbcnet.com/",
   "image": "/img/HSBC-Logo.png",
-  "description": "HSBCnet \"<em>is an Internet based banking service designed especially for corporate and institutional customers.</em>\" It offers a convenient method of conducting financial business and ready access to a range of product and service.",
+  "description": "HSBCnet \"<em>is an Internet based banking service designed especially for corporate and institutional customers.</em>\" It offers a convenient<br>method of conducting financial business and ready access to a range of product and service.",
 
   "tags": ["HSBC","HSBCnet", "Capgemini", "Java", "Selenium"],
   "fact": "",

@@ -3,7 +3,7 @@
     "link":"",
     "image":"/img/iot.jpg",
     "description": "A small project which is developed by me in my graduation time. A fully automated system which controls home functionalities like electricity, by your smartphone.",
-    "tags": ["Python", "Raspberry pi"],
+    "tags": ["Python Programming", "Raspberry pi"],
     "fact": "1,500+ Active installations across large and small companies."
 }
 

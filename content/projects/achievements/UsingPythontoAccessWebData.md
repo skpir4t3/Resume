@@ -1,7 +1,7 @@
 ---
 title: Coursera - Using Python to Access Web Data
 date: 2020-01-07T17:08:21.433Z
-link: 'https://www.coursera.org/account/accomplishments/certificate/YQACNWXYQ3GD'
+cert_link: 'https://www.coursera.org/account/accomplishments/certificate/YQACNWXYQ3GD'
 image: "/img/coursera.png"
 description: "  This course will show how we can treat the Internet as a source of data. This contains the <em>scraping, parsing and reading the <br> web data</em>. This course is instructed by <em>University of Michigan</em>."
 tags: ["Coursera", "Python Programming", "JSON", "XML", "Web Scraping"]

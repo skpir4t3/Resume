@@ -7,25 +7,25 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Maharashtra, Pune"
+address = "Moh. Radha Krishna Aliganj, Etah 207247 Uttar Pradesh"
 email = "inbox.shubhamkumar@gmail.com"
 favicon = "/favicon.ico"
 firstName = "Shubham"
 lastName = "Kumar"
-phone = "+91-7599246005"
+phone = "+91 - 7599246005"
+secondaryPhone = "+91 - 7060800406"
 profileImage = "img/shubham.jpg"
 showEducation = true
 showExperience = true
 showOpenSource = true
 showProjects = true
-showPublications = true
 showQr = true
 showSkills = true
 
 [params.google]
 
 [params.google.analytics]
-trackerID = "XX-123446-01"
+trackerID = ""
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/shubhamkumar143/"
@@ -36,16 +36,16 @@ link = "https://github.com/sk-shubhamkumar"
 name = "GitHub"
 
 [[params.handles]]
-link = "https://bitbucket.org/"
-name = "Bitbucket"
+link = "https://www.facebook.com/shubhamkumar143"
+name = "Facebook"
 
 [[params.handles]]
-link = "https://stackoverflow.com/"
-name = "Stack Overflow"
+link = "https://twitter.com/skshubham143"
+name = "Twitter"
 
 [[params.handles]]
-link = "https://keybase.io/"
-name = "Keybase"
+link = "https://www.instagram.com/skshubhamkumar143"
+name = "Instagram"
 
 [outputs]
 home = ["HTML", "JSON"]
